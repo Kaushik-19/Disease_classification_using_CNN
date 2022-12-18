@@ -1,0 +1,10 @@
+matplotlib
+numpy
+opencv_python
+Pillow
+protobuf
+scikit_image
+streamlit
+tensorflow
+keras
+streamlit-option-menu
