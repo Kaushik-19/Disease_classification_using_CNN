@@ -26,7 +26,7 @@ if (selected == 'Malaria Classification'):
              )
 
     file = st.file_uploader("Please upload an brain scan file", type=["jpg", "png"])
-    import cv2
+    #import cv2
     from PIL import Image, ImageOps
     import numpy as np
     st.set_option('deprecation.showfileUploaderEncoding', False)
